@@ -45,6 +45,7 @@ export default [
       ],
       "@typescript-eslint/no-empty-object-type": "off",
       "no-extra-boolean-cast": "off",
+      "react/no-children-prop": ["warn"],
     },
     settings: {
       react: {
